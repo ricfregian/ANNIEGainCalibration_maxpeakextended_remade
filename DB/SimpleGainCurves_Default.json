@@ -1,0 +1,262 @@
+{
+    "FERMIFIT": {
+        "LEDPINs": [
+        ], 
+        "RunNumber": [
+        ], 
+        "c1Mu": [
+        ],
+        "V": [
+        ], 
+        "Date": [
+        ], 
+        "c1Mu_unc": [
+        ], 
+        "c1Mu_StdErr": [
+        ], 
+        "Channel": [
+        ], 
+        "LEDsOn": [
+        ]
+    },
+    "EXP3SPE": {
+        "LEDPINs": [
+        ], 
+        "c2MScale": [
+        ], 
+        "SCScale_unc": [
+        ], 
+        "c1Sigma": [
+        ], 
+        "c2HScale_unc": [
+        ], 
+        "RunNumber": [
+        ], 
+        "c2MScale_unc": [
+        ], 
+        "c1Sigma_unc": [
+        ], 
+        "c2HScale": [
+        ], 
+        "c1Height_unc": [
+        ], 
+        "SCScale": [
+        ], 
+        "c2SScale": [
+        ], 
+        "c1Mu": [
+        ],
+        "CExp": [
+        ],
+        "f_mu": [],
+        "tau":[], 
+        "CExp_unc": [
+        ],
+        "f_mu_unc": [],
+        "tau_unc":[], 
+        "V": [
+        ], 
+        "Date": [
+        ], 
+        "c2SScale_unc": [], 
+        "c1Mu_unc": [
+        ], 
+        "c1Height": [
+        ], 
+        "Channel": [
+        ], 
+        "LEDsOn": [
+        ]
+    },
+    "EXP2SPE": {
+        "LEDPINs": [
+        ], 
+        "c2MScale": [
+        ], 
+        "SCScale_unc": [
+        ], 
+        "c1Sigma": [
+        ], 
+        "c2HScale_unc": [
+        ], 
+        "RunNumber": [
+        ], 
+        "c2MScale_unc": [
+        ], 
+        "c1Sigma_unc": [
+        ], 
+        "c2HScale": [
+        ], 
+        "c1Height_unc": [
+        ], 
+        "SCScale": [
+        ], 
+        "c2SScale": [
+        ], 
+        "c1Mu": [
+        ],
+        "CExp": [
+        ],
+        "f_mu": [],
+        "tau":[], 
+        "CExp_unc": [
+        ],
+        "f_mu_unc": [],
+        "tau_unc":[], 
+        "V": [
+        ], 
+        "Date": [
+        ], 
+        "c2SScale_unc": [], 
+        "c1Mu_unc": [
+        ], 
+        "c1Height": [
+        ], 
+        "Channel": [
+        ], 
+        "LEDsOn": [
+        ]
+    },
+    "SPE2Peaks": {
+        "LEDPINs": [
+        ], 
+        "c2MScale": [
+        ], 
+        "SCScale_unc": [
+        ], 
+        "c1Sigma": [
+        ], 
+        "c2HScale_unc": [
+        ], 
+        "RunNumber": [
+        ], 
+        "c2MScale_unc": [
+        ], 
+        "c1Sigma_unc": [
+        ], 
+        "c2HScale": [
+        ], 
+        "c1Height_unc": [
+        ], 
+        "SCScale": [
+        ], 
+        "c2SScale": [
+        ], 
+        "c1Mu": [
+        ], 
+        "V": [
+        ], 
+        "Date": [
+        ], 
+        "c2SScale_unc": [], 
+        "c1Mu_unc": [
+        ], 
+        "c1Height": [
+        ], 
+        "Channel": [
+        ], 
+        "LEDsOn": [
+        ]
+    }, 
+    "Gauss3": {
+        "LEDPINs": [], 
+        "c2MScale": [], 
+        "c1Sigma": [], 
+        "c2HScale_unc": [], 
+        "RunNumber": [], 
+        "V": [], 
+        "c2MScale_unc": [], 
+        "c1Sigma_unc": [], 
+        "c1Height_unc": [], 
+        "c2SScale": [], 
+        "c1Mu": [], 
+        "c2HScale": [], 
+        "Date": [], 
+        "c2SScale_unc": [], 
+        "c1Mu_unc": [], 
+        "c1Height": [], 
+        "Channel": [], 
+        "LEDsOn": []
+    }, 
+    "SPE": {
+        "LEDPINs": [
+        ], 
+        "c2MScale": [], 
+        "c1Sigma": [], 
+        "c2HScale_unc": [], 
+        "RunNumber": [
+        ], 
+        "c2MScale_unc": [], 
+        "c1Sigma_unc": [], 
+        "c1Height_unc": [], 
+        "c2SScale": [], 
+        "c1Mu": [], 
+        "c2HScale": [], 
+        "Date": [
+        ], 
+        "c2SScale_unc": [], 
+        "c1Mu_unc": [], 
+        "c1Height": [], 
+        "Channel": [
+        ], 
+        "LEDsOn": [
+        ]
+    }, 
+    "SPE3Peaks": {
+        "LEDPINs": [], 
+        "c2MScale": [], 
+        "c1Sigma": [], 
+        "c2HScale_unc": [], 
+        "RunNumber": [], 
+        "V": [], 
+        "c2MScale_unc": [], 
+        "c1Sigma_unc": [], 
+        "c1Height_unc": [], 
+        "c2SScale": [], 
+        "c1Mu": [], 
+        "c2HScale": [], 
+        "Date": [], 
+        "c2SScale_unc": [], 
+        "c1Mu_unc": [], 
+        "c1Height": [], 
+        "Channel": [], 
+        "LEDsOn": []
+    }, 
+    "Gauss2": {
+        "LEDPINs": [
+        ], 
+        "c2MScale": [
+        ], 
+        "c1Sigma": [
+        ], 
+        "c2HScale_unc": [
+        ], 
+        "RunNumber": [
+        ], 
+        "V": [], 
+        "c2MScale_unc": [
+        ], 
+        "c1Sigma_unc": [
+        ], 
+        "c1Height_unc": [
+        ], 
+        "c2SScale": [
+        ], 
+        "c1Mu": [
+        ], 
+        "c2HScale": [
+        ], 
+        "Date": [
+        ], 
+        "c2SScale_unc": [
+        ], 
+        "c1Mu_unc": [
+        ], 
+        "c1Height": [
+        ], 
+        "Channel": [
+        ], 
+        "LEDsOn": [
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "FERMIFIT": {
+        "LEDPINs": [],
+        "RunNumber": [],
+        "c1Mu": [],
+        "V": [],
+        "Date": [],
+        "c1Mu_unc": [],
+        "c1Mu_StdErr": [],
+        "Channel": [],
+        "LEDsOn": []
+    },
+    "EXP2SPE": {
+        "Channel": [],
+        "PV": [],
+        "PV_unc": [],
+        "c1Height": [],
+        "c1Mu": [],
+        "c1Sigma": [],
+        "c2HScale": [],
+        "c2MScale": [],
+        "c2SScale": [],
+        "SCScale": [],
+        "c1Height_unc": [],
+        "c1Mu_unc": [],
+        "c1Sigma_unc": [],
+        "c2HScale_unc": [],
+        "c2MScale_unc": [],
+        "c2SScale_unc": [],
+        "SCScale_unc": [],
+        "CExp": [],
+        "f_mu": [],
+        "tau": [],
+        "CExp_unc": [],
+        "f_mu_unc": [],
+        "tau_unc": []
+    },
+    "SimpleGauss": {
+        "Channel": [
+            343,
+            359,
+            366
+        ],
+        "PV": [
+            Infinity,
+            Infinity,
+            Infinity
+        ],
+        "PV_unc": [
+            Infinity,
+            Infinity,
+            Infinity
+        ],
+        "c1Height": [
+            999.9999990015322,
+            999.7502243693644,
+            995.9452759094219
+        ],
+        "c1Mu": [
+            0.00026673402788825065,
+            0.00028119178666672327,
+            0.0006313417478516501
+        ],
+        "c1Sigma": [
+            0.0003767542328583831,
+            9.148160682393753e-05,
+            0.0006574775686240796
+        ]
+    }
+}
